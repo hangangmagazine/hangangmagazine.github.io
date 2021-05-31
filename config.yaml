@@ -26,8 +26,8 @@ params:
   # GitHub repo URL of your site <Improve Your Site>
   gitRepo: https://github.com/hangangmagazine/hangangmagazine.github.io
   
-  # Add Background image
- 
+  # Add Background image | use different name than /themes/
+  background: "images/background.jpg"
   
   # Site Logo
   # The inverted logo will be used in the initial transparent navbar and
