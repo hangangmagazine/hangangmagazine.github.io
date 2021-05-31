@@ -23,17 +23,60 @@ summary: 'I am a passionate data analyst'
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "andrewbrennfoerder@gmail.com"
+  
 - name: Github
   icon: "fab fa-github"
   url: "https://www.github.com/example"
+  
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "#"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "#"
+
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "#"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
-softSkills:
-- name: Leadership
+softSkills:  
+- type: soft-skill-indicator
+  name: Leadership
   percentage: 85
   color: blue
-- name: Team Work
+
+- type: soft-skill-indicator
+  name: Team Work
   percentage: 90
   color: yellow
+
+- type: soft-skill-indicator
+  name: Hard Working
+  percentage: 85
+  color: orange
+  
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: 
+  name: 
+  url: 
+  badge: 
+
+- type: 
+  name: 
+  url: 
+  badge: 
+  
+- type: 
+  name: 
+  url: 
+  badge: 
