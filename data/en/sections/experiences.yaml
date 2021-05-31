@@ -11,54 +11,67 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: KOMMON Newsletter
+    url: "https://kommon.site"
+    location: Seoul, Korea
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: KOMMON
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Head of Strategic Growth
+    start: Jan 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
+    - Boobies
+    
+- company:
+    name: Han Gang Media & SEO Consulting
+    url: "https://hangangmagazine.com"
+    location: Seoul, Korea
+    # company overview
+    overview: HAN GANG MAGAZINE DATA
+  positions:
+  - designation: Founder/Owner
+    start: June 2019
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Culture 🎎, lifestyle🌱, finance💰, experiences🤝, business💼 & data-driven insights📈 | Seoul, Korea 
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Wordvice
+    url: "https://wordvice.com"
+    location: Seoul, Korea
+    overview: Wordvice is...
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Digital Marketing, Content & SEO strategist
+    start: June 2019
+    end: June 2021
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Do DO DO 
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: Nurisco Academic Consulting
+    url: "https://nurisco.net"
+    location: Seoul, Korea
+    overview: do do do
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Senior Science Editor | Project Manager | Client Accounts
+    start: Sep 2015
+    end: Jan 2020
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Boobies
+    
+  - designation: Senior Science Editor
+    location: Dallas, TX
+    start: Jun 2012
+    end: Sep 2015
+    responsibilities:
+    - Boobies
+
+  - designation: Science Editor
+    location: Dallas, TX
+    start: Jun 2012
+    end: Sep 2015
+    responsibilities:
+    - Boobies
+    
