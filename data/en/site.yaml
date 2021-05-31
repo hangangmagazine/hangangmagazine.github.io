@@ -12,6 +12,12 @@ description: Portfolio and personal blog of Andrew Brennfoerder.
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
 customMenus:
+- name: Docs
+  url: https://andrewb.netlify.app/posts/
+  
+- name: Notes
+  url: https://andrewb.netflify.app/notes/
+
 - name: Reports
   url: https://hangangmagazine.com/category/briefs
 
