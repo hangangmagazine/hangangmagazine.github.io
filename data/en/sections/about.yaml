@@ -29,54 +29,54 @@ socialLinks:
   
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://www.github.com/hangangmagazine"
   
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/andrewbrennfoerder/"
 
 - name: Twitter
   icon: "fab fa-twitter"
-  url: "#"
+  url: "https://www.twitter.com/hangangmagazine"
 
 - name: Facebook
   icon: "fab fa-facebook"
-  url: "#"
+  url: "https://www.facebook.com/hangangmagazine"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: SEMrush Competitive Analysis and Keyword Research
+  url: "https://static.semrush.com/academy-prod/certificate/6088111/SEMrush-Academy-Certificate-eacbfa6008bc18c1e26cbe3544ba081209821423b653fa5f13ebf4225ad9d7a0.png"
+  badge: "https://alizeebaudez.com/wp-content/uploads/2019/08/SEMrush-Technical-SEO-certification-badge.png"
+
+- type: certification
+  name: Nebraska MBA
+  url: "https://business.unl.edu/news/mba-nebraska-named-best-value-program-in-u-s-by-financial-times/"
+  badge: "https://newsroom.unl.edu/announce/files/file48482.png"
+  
+- type: 
+  name: 
+  url: 
+  badge: 
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:  
 - type: soft-skill-indicator
-  name: Leadership
-  percentage: 85
-  color: blue
+  name: Market Research 
+  percentage: 95
+  color: sky
 
 - type: soft-skill-indicator
-  name: Team Work
-  percentage: 90
+  name: Comp Analysis
+  percentage: 95
   color: yellow
 
 - type: soft-skill-indicator
-  name: Hard Working
-  percentage: 85
-  color: orange
-  
-# Show your badges
-# You can show your verifiable certificates from https://www.credly.com.
-# You can also show a circular bar indicating the level of expertise on a certain skill
-badges:
-- type: 
-  name: 
-  url: 
-  badge: 
-
-- type: 
-  name: 
-  url: 
-  badge: 
-  
-- type: 
-  name: 
-  url: 
-  badge: 
+  name: Content Strategy 
+  percentage: 100
+  color: green
