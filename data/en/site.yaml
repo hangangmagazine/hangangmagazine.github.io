@@ -1,5 +1,5 @@
 # Copyright Notice
-copyright: © 2021 Copyright.
+copyright: © 2021 Copyright HAN GANG MEDIA & SEO CONSULTING. All Rights Reserved.
 
 # A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
 disclaimer: "This theme is under MIT license. So, you can use it for non-commercial, commercial, or private uses.
@@ -12,13 +12,19 @@ description: Portfolio and personal blog of Andrew Brennfoerder.
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
 customMenus:
-- name: Docs
-  url: https://toha-guides.netlify.app/posts/
+- name: Reports
+  url: https://hangangmagazine.com/category/briefs
+
+- name: Newsletter
+  url: https://hi.switchy.io/kommon
+  
+- name: YouTube
+  url: https://social.hangangmagazine.com/2YQC
 
 # Specify OpenGraph Headers
 openGraph:
   title: Andrew's Portfolio
   type: website
   description: Portfolio and personal blog of Andrew Brennfoerder.
-  image: images/author/john.png
-  url: https://hugo-toha.github.io
+  image: images/author/Andrew Face Linkedin2.png
+  url: https://andrewb.netlify.app
