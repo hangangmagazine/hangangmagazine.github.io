@@ -14,9 +14,6 @@ description: Portfolio and personal blog of Andrew Brennfoerder.
 customMenus:
 - name: Docs
   url: https://andrewb.netlify.app/posts/
-  
-- name: Notes
-  url: https://andrewb.netflify.app/notes/
 
 - name: Reports
   url: https://hangangmagazine.com/category/briefs
