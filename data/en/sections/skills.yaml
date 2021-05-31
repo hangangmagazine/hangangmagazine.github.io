@@ -12,16 +12,28 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
+- name: R language
   logo: "/images/sections/skills/kubernetes.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  summary: "R Summary here"
   url: "https://kubernetes.io/"
 
-- name: Go Development
+- name: SQL
   logo: "/images/sections/skills/go.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  summary: "SQL SQL "
   url: "https://golang.org/"
 
-- name: Cloud Computing
+- name: Search Engine Optimization
   logo: "/images/sections/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  summary: "SEO boobies"
+  
+- name: Digital Marketing & Content Strategy
+  logo: "/images/sections/skills/cloud.png"
+  summary: "boobies"
+
+- name: Business Strategy 
+  logo: "/images/sections/skills/cloud.png"
+  summary: "boobies"
+
+- name: Academic Research & Editor 
+  logo: "/images/sections/skills/cloud.png"
+  summary: "boobies"

@@ -1,0 +1,45 @@
+# section information
+section:
+  name: Accomplishments
+  id: accomplishments
+  enable: true
+  weight: 7
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+- name: Test
+  timeline: "March 2018 - March 2019"
+  organization:
+    name: Test
+    url: https://www.linuxfoundation.org
+  courseOverview: "Test"
+  certificateURL: "https://example.com"
+
+- name: Test
+  timeline: "Jun 2020 - Jan 2021"
+  organization:
+    name: Test
+    url: https://www.coursera.org
+  courseOverview: "Test"
+  certificateURL: "https://example.com"
+
+- name: Test
+  timeline: "Jan 2018 - Sept 2018"
+  organization:
+    name: educative
+    url: https://www.educative.io
+  courseOverview: Test
+  certificateURL: "https://example.com"
+
+- name: Test
+  timeline: "Nov 2017 - Mar 2018"
+  organization:
+    name: Test
+    url: https://www.udemy.com
+  courseOverview: Test
+  certificateURL: "https://example.com"
+ 
