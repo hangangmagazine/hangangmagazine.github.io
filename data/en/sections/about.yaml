@@ -8,17 +8,17 @@ section:
   template: sections/about.html
 
 # your designation
-designation: SEO specialist, Digital Marketer & Data Analytics
+designation: SEO & Digital Marketing Specialist | Data Analyst | Academic Consultant
 # your company information
 company:
-  name: HAN GANG MAGAZINE
-  url: "https://hangangmagazine.com"
+  name: Wordvice
+  url: "https://wordvice.com"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/Andrew Brennfoerder Resume 2021.pdf"
 
 # a summary about you
-summary: 'I am a passionate data analyst'
+summary: 'test'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
