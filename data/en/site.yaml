@@ -21,12 +21,6 @@ customMenus:
 - name: Reports
   url: https://hangangmagazine.com/category/briefs
 
-- name: Newsletter
-  url: https://hi.switchy.io/kommon
-  
-- name: YouTube
-  url: https://social.hangangmagazine.com/2YQC
-
 # Specify OpenGraph Headers
 openGraph:
   title: Andrew's Portfolio

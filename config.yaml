@@ -10,6 +10,9 @@ languages:
   en:
     languageName: English
     weight: 1
+  ko:
+    languageName: 한국어
+    weight: 1
 
 # Control TOC depth
 markup:
@@ -17,7 +20,11 @@ markup:
     startLevel: 2
     endLevel: 6
     ordered: false
-
+# Enable RAW HTML
+  goldmark:
+    renderer:
+      unsafe: true
+      
 # Enable global emoji support
 enableEmoji: true
 
@@ -25,6 +32,7 @@ enableEmoji: true
 params:
   # GitHub repo URL of your site <Improve Your Site>
   gitRepo: https://github.com/hangangmagazine/hangangmagazine.github.io
+  gitBranch: source
   
   # Add Background image | use different name than /themes/
   background: "images/background.jpg"
@@ -49,3 +57,12 @@ params:
     enable: false
     provider: mailchimp
     mailchimpURL: https://github.us1.list-manage.com/subscribe/post?u=19de52a4603135aae97163fd8&amp;id=094a24c76e
+    
+  # Configure various features of this theme
+  features:
+    # Enable and configure portfolio
+    portfolio:
+      enable: true
+    # Enable and configure blog posts
+    blog:
+      enable: true
