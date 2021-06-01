@@ -12,28 +12,28 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: R language
-  logo: "/images/sections/skills/kubernetes.png"
-  summary: "R Summary here"
-  url: "https://kubernetes.io/"
-
-- name: SQL
-  logo: "/images/sections/skills/go.png"
+- name: SEO
+  logo: "/images/sections/skills/semrush.png"
   summary: "SQL SQL "
-  url: "https://golang.org/"
+  url: "https://semrush.com"
 
-- name: Search Engine Optimization
-  logo: "/images/sections/skills/cloud.png"
-  summary: "SEO boobies"
-  
-- name: Digital Marketing & Content Strategy
-  logo: "/images/sections/skills/cloud.png"
-  summary: "boobies"
+- name: Digital Marketing Analytics
+  logo: "/images/sections/skills/google.png"
+  summary: "GA, GSC, GKP"
 
-- name: Business Strategy 
-  logo: "/images/sections/skills/cloud.png"
-  summary: "boobies"
+- name: Data Analytics
+  logo: "/images/sections/skills/R.png"
+  summary: "R Summary here"
+  url: "https://rpubs.com/hangangmagazine/"
 
-- name: Academic Research & Editor 
-  logo: "/images/sections/skills/cloud.png"
+- name: Content Strategy
+  logo: "/images/sections/skills/wordpress.png"
+  summary: "GPT-3 etc content"
+
+- name: Web Development
+  logo: "/images/sections/skills/github.png"
+  summary: "fffff"
+
+- name: Academic Research Consulting 
+  logo: "/images/sections/skills/research.png"
   summary: "boobies"
