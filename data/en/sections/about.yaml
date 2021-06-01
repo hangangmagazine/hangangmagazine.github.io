@@ -18,7 +18,8 @@ company:
 resume: "files/Andrew Brennfoerder Resume.pdf"
 
 # a summary about you
-summary: 'test'
+summary:
+  Andrew is a digital growth marketer who divides his time between Seoul, Korea and Dallas, Texas. His ares of expertise are SEO, digital content platforms, data analytics and reporting, and academic research. He earned his MBA in business analytics from the University of Nebraska.
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -40,12 +41,16 @@ socialLinks:
   url: "https://www.instagram.com/andrewtarts"
 
 - name: Blog
-  icon: "fab fa-blog"
+  icon: "fab fa-wordpress"
   url: "https://hangangmagazine.com"
 
-- name: Links
-  icon: "fab fa-bell"
+- name: Link Tree
+  icon: "fab fa-pagelines"
   url: "https://social.hangangmagazine.com/linktree"
+
+- name: R projects
+  icon: "fab fa-r-project"
+  url: "https://rpubs.com/hangangmagazine/"
 
 - name: Github
   icon: "fab fa-github"
@@ -86,5 +91,5 @@ softSkills:
 
 - type: soft-skill-indicator
   name: Content Strategy 
-  percentage: 100
+  percentage: 95
   color: green
