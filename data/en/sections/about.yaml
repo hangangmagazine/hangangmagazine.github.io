@@ -25,11 +25,7 @@ summary: 'test'
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "andrewbrennfoerder@gmail.com"
-  
-- name: Github
-  icon: "fab fa-github"
-  url: "https://www.github.com/hangangmagazine"
+  url: "contact@hangangmagazine.com"
   
 - name: LinkedIn
   icon: "fab fa-linkedin"
@@ -37,11 +33,23 @@ socialLinks:
 
 - name: Twitter
   icon: "fab fa-twitter"
-  url: "https://www.twitter.com/hangangmagazine"
+  url: "https://www.twitter.com/andrewtarts"
 
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "https://www.facebook.com/hangangmagazine"
+- name: Instagram
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/andrewtarts"
+
+- name: Blog
+  icon: "fab fa-blog"
+  url: "https://hangangmagazine.com"
+
+- name: Links
+  icon: "fab fa-bell"
+  url: "https://social.hangangmagazine.com/linktree"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/hangangmagazine"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
