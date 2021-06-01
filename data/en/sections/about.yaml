@@ -73,10 +73,10 @@ badges:
   url: "https://business.unl.edu/news/mba-nebraska-named-best-value-program-in-u-s-by-financial-times/"
   badge: "https://newsroom.unl.edu/announce/files/file48482.png"
   
-- type: 
-  name: 
-  url: 
-  badge: 
+- type: certification
+  name: Nebraska MBA
+  url: "https://business.unl.edu/news/mba-nebraska-named-best-value-program-in-u-s-by-financial-times/"
+  badge: "https://i.imgur.com/4FMRV5Z.png"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
