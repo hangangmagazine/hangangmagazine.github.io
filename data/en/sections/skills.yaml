@@ -14,26 +14,50 @@ section:
 skills:
 - name: SEO
   logo: "/images/sections/skills/semrush.png"
-  summary: "SQL SQL "
+  summary: 
+    Perform all facets of SEO, including on- and off-page SEO, technical SEO, content optimization, and backlink building
+    
+    
+    Competitor analysis and benchmarking, keyword and topic research, technical site auditing, content strategy, partnership and affiliate outreach, data analysis, sorting, and visualization.
   url: "https://semrush.com"
 
 - name: Digital Marketing Analytics
   logo: "/images/sections/skills/google.png"
-  summary: "GA, GSC, GKP"
+  summary: 
+    I can implement the full Google suite of tracking analytics and set up regex operators for unique views and filters.
+    
+    
+    Google analytics, Google search console, Google Keyword Planner, Google Adwords. Facebook & Twitter Pixels.
 
 - name: Data Analytics
   logo: "/images/sections/skills/R.png"
-  summary: "R Summary here"
+  summary:
+    Predictive analytics using R language. Classification models. Decision Trees. Neural nets. Machine learning.
+
+
+    Basic database query skills using SQL/mySQL.
   url: "https://rpubs.com/hangangmagazine/"
 
 - name: Content Strategy
   logo: "/images/sections/skills/wordpress.png"
-  summary: "GPT-3 etc content"
+  summary: 
+    I make sure that a brand's content strategy is optimally aligned with its content delivery and adhere to SEO best practices.
 
-- name: Web Development
+
+    SEO keyword optimization with MarketMuse, Frase, SurferSEO. GPT-3 writing with ShortlyAI.
+
+- name: Web Dev & Technical SEO
   logo: "/images/sections/skills/github.png"
-  summary: "fffff"
+  summary: 
+    I optimize the back-ends of websites on any CMS to increase Google Pagespeed / Lighthouse scores, reduce cumulative layout shift and TTFB, and adhere to Core Web Vitals guidelines.
+
+
+    I help affiliate and travel bloggers and content creators focus on their content.
 
 - name: Academic Research Consulting 
   logo: "/images/sections/skills/research.png"
-  summary: "boobies"
+  summary: 
+    Multiple journal article and book-length data science publications as cited editor. Over 8,000 journal articles edited over 10 years as part of editing agency.
+
+
+    Consulted with professors and researchers all over Asia.
