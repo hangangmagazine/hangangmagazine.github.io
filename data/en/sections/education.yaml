@@ -10,7 +10,7 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Master of Business Administration
+- name: Master of Business Administration | Business Analytics
   icon: fa-briefcase
   timeframe: 2018-2021
   institution:
@@ -20,13 +20,16 @@ degrees:
     scale: GPA
     achieved: 3.95
     outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
-    url: "#"
+  takenCourses:
+    showGrades: false
+    courses:
+    - name: Database Management
+    - name: Predictive Analytics
+    - name: Descriptive Analytics
+    - name: Prescriptive Analytics
+    - name: Supply Chain Management
+    - name: Quantitative Marketing
+
 - name: Phd Program in Molecular Biology (Not Finished)
   icon: fa-microscope
   timeframe: 2006-2009
@@ -37,32 +40,7 @@ degrees:
     scale: CGPA
     achieved: 3.6
     outOf: 4
-  takenCourses: #(optional)
-    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
-    courses:
-    - name: Data Structures and Algorithm
-      achieved: 3.75
-      outOf: 4
-    - name: Network Security
-      achieved: 3.80
-      outOf: 4
-    - name: Operating System
-      achieved: 3.5
-      outOf: 4
-    - name: Artificial Intelligent
-      achieved: 3.75
-      outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
+
 - name: B.Sc. in Biochemistry
   icon: fa-university
   timeframe: 2002-2006
@@ -74,23 +52,7 @@ degrees:
     achieved: 3.99
     outOf: 4
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-  takenCourses: #(optional)
-    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
-    courses:
-    - name: Data Structures and Algorithm
-      achieved: 3.75
-      outOf: 4
-    - name: Network Security
-      achieved: 3.80
-      outOf: 4
-    - name: Operating System
-      achieved: 3.5
-      outOf: 4
-    - name: Artificial Intelligent
-      achieved: 3.75
-      outOf: 4
+  - Phi Beta Kappa
+  - Summa Cum Laude
+  - UNL Honors Program
+  - 4-year academic scholarship
