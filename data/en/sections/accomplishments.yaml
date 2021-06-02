@@ -12,12 +12,12 @@ section:
 # Your accomplishments
 accomplishments:
 - name: Test
-  timeline: "March 2018 - March 2019"
+  timeline: "June 2020 - June 2021"
   organization:
-    name: Test
-    url: https://www.linuxfoundation.org
-  courseOverview: "Test"
-  certificateURL: "https://example.com"
+    name: Wordvice
+    url: https://wordvice.com/blog
+  courseOverview: "fff"
+  
 
 - name: Test
   timeline: "Jun 2020 - Jan 2021"
