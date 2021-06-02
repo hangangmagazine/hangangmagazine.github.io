@@ -18,6 +18,8 @@ buttons:
   filter: "academic"
 - name: Marketing
   filter: "marketing"
+- name: Data
+  filter: "data"
 
 # your projects
 projects:
@@ -27,8 +29,9 @@ projects:
   #timeline: "June 2020 - Present"
   #repo: # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "https://social.hangangmagazine.com/linktree"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Han Gang Magazine is a data-driven blog about culture, lifestyle, finance, experience, and business in Korea. 
-  tags: ["blog", "hobby", "content"]
+  summary: 
+    Han Gang Magazine is a data-driven blog about culture, lifestyle, finance, experience, and business in Korea. A personal passion project to deliver contextual insights into Korea for expats, utilizing SEO best practices.
+  tags: ["blog", "hobby", "content", "data"]
 
 - name: KOMMON Newsletter
   logo: /images/sections/projects/Kommon.png
@@ -64,3 +67,12 @@ projects:
   url: "https://www.amazon.com/South-Korea-Socioeconomic-Overview-Present/dp/141286397X"
   summary: Examination of South Korea's socioeconomic evolution since the 1940s. Topics covered include demography, rural-urban development, economic planning, and international trade, in addition to lower and higher education.
   tags: ["academic", "editor", "book"]
+
+- name: R project repository
+  logo: /images/sections/skills/R.png
+  role: Personal
+  #timeline: "Jun 2019 - Present"
+  #repo: Test
+  url: "https://rpubs.com/hangangmagazine"
+  summary: Ongoing collection of data visualizations made using R ggplot2 for Han Gang Magainze data reports and personal showcase.
+  tags: ["data", "hobby"]

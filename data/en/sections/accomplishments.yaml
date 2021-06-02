@@ -12,7 +12,7 @@ section:
 # Your accomplishments
 accomplishments:
 - name: Professional SEO
-  timeline: "June 2020 - June 2021"
+  timeline: "June 2020 - Present"
   organization:
     name: Wordvice
     url: https://wordvice.com/blog
@@ -56,4 +56,13 @@ accomplishments:
   courseOverview: Course program to certify SEO professionals in all facets - Rank tracking, link building, competitive analysis, keyword research, technical SEO, content.
   certificateURL: "https://static.semrush.com/academy-prod/certificate/6088111/SEMrush-Academy-Certificate-eacbfa6008bc18c1e26cbe3544ba081209821423b653fa5f13ebf4225ad9d7a0.png"
 
- 
+- name: Personal SEO projects
+  # timeline: "."
+  organization:
+    name: Han Gang Magazine
+    url: https://hangangmagazine.com
+  courseOverview: |
+    • Achieved #1 Google rankings for multiple affiliate-related keywords
+
+
+    • Displaced former #1 position-holder for multiple keywords as proof-of-concept of my SEO expertise (other Korean blogs)
