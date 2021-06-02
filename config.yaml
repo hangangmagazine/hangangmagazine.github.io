@@ -65,9 +65,9 @@ params:
   # Provide newsletter configuration. This feature hasn't been implemented yet.
   # Currently, you can just hide it from the footer.
   newsletter:
-    enable: true
+    enable: false
     provider: mailchimp
-    mailchimpURL: https://github.us1.list-manage.com/subscribe/post?u=19de52a4603135aae97163fd8&amp;id=094a24c76e
+    mailchimpURL: https://us17.list-manage.com/contact-form?u=c1b5b22c1348803c5c5f0cb09&form_id=e777648a47a3be36db8efd7f30d8ca6b
     
   # Configure various features of this theme
   features:
