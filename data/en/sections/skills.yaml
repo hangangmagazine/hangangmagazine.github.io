@@ -15,7 +15,7 @@ skills:
 - name: SEO
   logo: "/images/sections/skills/semrush.png"
   summary: 
-    Perform all facets of SEO, including on- and off-page SEO, technical SEO, content optimization, and backlink building
+    On- and off-page SEO, technical SEO, content optimization, and backlink building
     
     
     Competitor analysis and benchmarking, keyword and topic research, technical site auditing, content strategy, partnership and affiliate outreach, data analysis, sorting, and visualization.
@@ -24,7 +24,7 @@ skills:
 - name: Digital Marketing Analytics
   logo: "/images/sections/skills/google.png"
   summary: 
-    I can implement the full Google suite of tracking analytics and set up regex operators for unique views and filters.
+    Full Google suite of tracking analytics and regex operators for unique views and filters.
     
     
     Google analytics, Google search console, Google Keyword Planner, Google Adwords. Facebook & Twitter Pixels.
@@ -41,7 +41,7 @@ skills:
 - name: Content Strategy
   logo: "/images/sections/skills/wordpress.png"
   summary: 
-    I make sure that a brand's content strategy is optimally aligned with its content delivery and adhere to SEO best practices.
+    Alignment of brand's content strategy with its content delivery and adherence to SEO best practices.
 
 
     SEO keyword optimization with MarketMuse, Frase, SurferSEO. GPT-3 writing with ShortlyAI.
@@ -49,10 +49,10 @@ skills:
 - name: Web Dev & Technical SEO
   logo: "/images/sections/skills/github.png"
   summary: 
-    I optimize the back-ends of websites on any CMS to increase Google Pagespeed / Lighthouse scores, reduce cumulative layout shift and TTFB, and adhere to Core Web Vitals guidelines.
+    Optimize backends of websites on any CMS to increase Google Pagespeed / Lighthouse scores, reduce cumulative layout shift and TTFB, and adhere to Core Web Vitals guidelines.
 
 
-    I help affiliate and travel bloggers and content creators focus on their content.
+    Screaming Frog to inform clients and content creators about technical improvements.
 
 - name: Academic Research Consulting 
   logo: "/images/sections/skills/research.png"
