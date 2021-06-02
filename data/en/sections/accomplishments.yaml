@@ -11,35 +11,49 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Test
+- name: Professional SEO
   timeline: "June 2020 - June 2021"
   organization:
     name: Wordvice
     url: https://wordvice.com/blog
-  courseOverview: "fff"
-  
+  courseOverview: 
+    •	Achieved Google rankings for **75.6k** total keywords, **2,836** keywords in top 10 SERPs. 
 
-- name: Test
-  timeline: "Jun 2020 - Jan 2021"
-  organization:
-    name: Test
-    url: https://www.coursera.org
-  courseOverview: "Test"
-  certificateURL: "https://example.com"
 
-- name: Test
-  timeline: "Jan 2018 - Sept 2018"
-  organization:
-    name: educative
-    url: https://www.educative.io
-  courseOverview: Test
-  certificateURL: "https://example.com"
+    •	Increased site traffic from **55k to 114.7k** monthly organic traffic from June 2020-2021.
 
-- name: Test
-  timeline: "Nov 2017 - Mar 2018"
+
+    •	Acquired **51.8k** backlinks from institutional, .edu, B2B, and industry-leading science journals.
+
+
+    •	Forged partnerships with **10+** local research institutions and universities.
+
+    
+    •	Spearheaded complete social media redesign and created shareable content/asset workflow. 
+
+- name: Program Manager | Senior Editor
+  timeline: "Sept 2015 - Jan 2020"
   organization:
-    name: Test
-    url: https://www.udemy.com
-  courseOverview: Test
-  certificateURL: "https://example.com"
+    name: Nurisco
+    url: https://nurisco.net
+  courseOverview: 
+    • Negotiation - Established institutional (universities, hospitals, research) partnerships.
+
+
+    • Edited over **8,000** articles & manuscripts - Maintained quality standards.
+
+
+    • Increased client retention across editor team **2.5x**.
+
+
+    • Project timeline - Created proprietary workflow for manuscript editing. Created a monitoring framework for editors.
+
+- name: SEO certification
+  timeline: "Nov 2020"
+  organization:
+    name: SEMrush
+    url: https://www.semrush.com/academy/
+  courseOverview: Course program to certify SEO professionals in all facets - Rank tracking, link building, competitive analysis, keyword research, technical SEO, content.
+  certificateURL: "https://static.semrush.com/academy-prod/certificate/6088111/SEMrush-Academy-Certificate-eacbfa6008bc18c1e26cbe3544ba081209821423b653fa5f13ebf4225ad9d7a0.png"
+
  
