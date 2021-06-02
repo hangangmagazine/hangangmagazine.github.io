@@ -11,35 +11,53 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Wordvice
+    url: "https://wordvice.com"
+    location: Seoul, Korea
+    overview: Wordvice is...
+  positions:
+  - designation: Digital Marketing, Content & SEO strategist
+    start: June 2019
+    responsibilities:
+    - Analyze and benchmark industry competitors, develop proprietary content and outreach strategies, implement strategy and onboard content team, report progress and adhere to KPIs/OKRs.
+    - Backlink building, competitor benchmarking and analysis of content and backlinks, keyword and topic research, technical site audit, partnership/affiliate outreach, data analysis/sorting/visualization/reporting. 
+    - Manage and create content for English language social media channels.
+    - Develop proprietary content strategy for link building and content creation.
+    
+- company:
     name: Shared Homies
     url: "https://sharedhomies.com"
     location: Seoul, Korea
     # company overview
     overview: Shared Homies is a property/housing startup that seeks to democratize access to shared housing across Asia with a focus on community-building.
   positions:
-  - designation: Head of Marketing Research & Strategy
+  - designation: Head of Growth Strategy & Marketing|Founding Member
     start: May 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Boobies
+    - Lead aggressive SEO growth campaign featuring English content focused on shared housing, lifestyle, real estate, and travel.
+    - Manage content team and interns. Teach SEO best practices to writers. Oversee core content and brand strategy.
+    - Build relevancy and trust in a community-focused marketing campaign.
+    - Create data-intensive press materials for outreach, onboarding, and fundraising. Monitor and report metrics to founding team. 
 
 - company:
     name: KOMMON Newsletter
     url: "https://kommon.site"
     location: Seoul, Korea
     # company overview
-    overview: KOMMON is an English language newsltter startup that delivers the latest news, culture, trends & events in Korea.
+    overview: KOMMON is a newsletter marketing startup that delivers engaging content on Korean news, culture, events, and trends.
   positions:
   - designation: Head of Strategic Growth
     start: Jan 2021
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Boobies
-    
+    - Develop a long-term strategic growth plan to increase readership and provide a platform for monetization.
+    - SEO competitor and keyword research to inform content social media team. Marketing research to inform content decisions.
+    - Spearhead site redesign to create dual content platform (newsletter and blog).
+    - Predictive analytics - use R to create classification models to optimize future outreach/marketing to subscribers.
+    - Outreach to affiliate partners and advertisers for monetization.
+
 - company:
     name: Han Gang Media & SEO Consulting
     url: "https://hangangmagazine.com"
@@ -48,45 +66,31 @@ experiences:
     overview: HAN GANG MAGAZINE is a new periodical focusing on culture & lifestyle for expats and foreigners living in Seoul, Korea.   
   positions:
   - designation: Founder/Owner
-    start: June 2019
+    start: June 2020
     responsibilities:
-    - Everything
-
-- company:
-    name: Wordvice
-    url: "https://wordvice.com"
-    location: Seoul, Korea
-    overview: Wordvice is...
-  positions:
-  - designation: Digital Marketing, Content & SEO strategist
-    start: June 2019
-    end: June 2021
-    responsibilities:
-    - Do DO DO 
+    - HAN GANG MAGAZINE | Culture 🎎, lifestyle🌱, finance💰, experiences🤝, business💼 & data-driven insights📈 | Seoul, Korea
 
 - company:
     name: Nurisco Academic Consulting
     url: "https://nurisco.net"
     location: Seoul, Korea
-    overview: do do do
+    overview: Nurisco is an academic consulting firm that connects researchers and students with talented, expert editors.
   positions:
-  - designation: Senior Science Editor | Project Manager | Client Accounts
+  - designation: Editor Program Manager
     start: Sep 2015
     end: Jan 2020
     responsibilities:
-    - Boobies
-    
+    - Oversaw editing of scientific research articles written by PhD/professors to be published in international, academic journals.
+    - Project/Talent management - Assigned workflows to editors. Performed QA of editors. Assigned and maintained deadlines.
+    - Account management/Client retention - Developed and maintained relationships with clients. Ensured client satisfaction. 
+    - Lead generation - Outreach, sales & networking to develop professor relationships well as editing talent.
+    - Human Resources - Recruited PhD professors/researchers as expert editors.
+
   - designation: Senior Science Editor
     location: Dallas, TX
     start: Jun 2012
     end: Sep 2015
     responsibilities:
-    - Boobies
-
-  - designation: Science Editor
-    location: Dallas, TX
-    start: Jun 2012
-    end: Sep 2015
-    responsibilities:
-    - Boobies
-    
+    - Edit scientific research articles written by PhD/professors to be published in international, academic journals
+    - Understand client expectations - professional & cultural
+    - Ensure client satisfaction
