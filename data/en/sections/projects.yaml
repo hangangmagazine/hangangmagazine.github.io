@@ -58,7 +58,7 @@ projects:
 
 - name: South Korea - A Socioeconomic Overview from the Past to Present
   logo: /images/sections/projects/book2.jpg
-  role: Owner
+  role: Editor
   #timeline: "Jun 2019 - Present"
   #repo: Test
   url: "https://www.amazon.com/South-Korea-Socioeconomic-Overview-Present/dp/141286397X"
