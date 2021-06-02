@@ -58,17 +58,17 @@ experiences:
     - Predictive analytics - use R to create classification models to optimize future outreach/marketing to subscribers.
     - Outreach to affiliate partners and advertisers for monetization.
 
-- company:
-    name: Han Gang Media & SEO Consulting
-    url: "https://hangangmagazine.com"
-    location: Seoul, Korea
+#- company:
+   # name: Han Gang Media & SEO Consulting
+   # url: "https://hangangmagazine.com"
+   # location: Seoul, Korea
     # company overview
-    overview: HAN GANG MAGAZINE is a new periodical focusing on culture & lifestyle for expats and foreigners living in Seoul, Korea.   
-  positions:
-  - designation: Founder/Owner
-    start: June 2020
-    responsibilities:
-    - HAN GANG MAGAZINE | Culture 🎎, lifestyle🌱, finance💰, experiences🤝, business💼 & data-driven insights📈 | Seoul, Korea
+    #overview: HAN GANG MAGAZINE is a new periodical focusing on culture & lifestyle for expats and foreigners living in Seoul, Korea.   
+  #positions:
+  #- designation: Founder/Owner
+  #  start: June 2020
+  #  responsibilities:
+  #  - HAN GANG MAGAZINE | Culture 🎎, lifestyle🌱, finance💰, experiences🤝, business💼 & data-driven insights📈 | Seoul, Korea
 
 - company:
     name: Nurisco Academic Consulting
