@@ -74,5 +74,5 @@ projects:
   #timeline: "Jun 2019 - Present"
   #repo: Test
   url: "https://rpubs.com/hangangmagazine"
-  summary: Ongoing collection of data visualizations made using R ggplot2 for Han Gang Magainze data reports and personal showcase.
+  summary: Ongoing collection of data visualizations made using R ggplot2 for data reports and personal showcase.
   tags: ["data", "hobby"]
