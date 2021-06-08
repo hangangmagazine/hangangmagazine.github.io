@@ -28,14 +28,14 @@
 
     <!--================= custom style overrides =========================-->
     <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}"/>
+
+    <!-- Add hockeystack script -->
+    <script async data-apikey="e71c69a8a5b79957d9ffb1cb7dbb5f" data-cookieless src="https://cdn.jsdelivr.net/npm/hockeystack@latest/hockeystack.min.js"></script>
     
     <!-- Add Google Analytics if enabled in configuration -->
     {{ if site.GoogleAnalytics }}
         {{ template "_internal/google_analytics_async.html" . }}
     {{ end }}
-
-    <!-- Add hockeystack script -->
-    <script async data-apikey="e71c69a8a5b79957d9ffb1cb7dbb5f" data-cookieless src="https://cdn.jsdelivr.net/npm/hockeystack@latest/hockeystack.min.js"></script>
   </head>
   <body data-spy="scroll" data-target="#top-navbar" data-offset="100">
 
