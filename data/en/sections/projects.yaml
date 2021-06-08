@@ -20,6 +20,8 @@ buttons:
   filter: "marketing"
 - name: Data
   filter: "data"
+- name: Startup
+  filter: "startup"
 
 # your projects
 projects:
@@ -76,3 +78,12 @@ projects:
   url: "https://rpubs.com/hangangmagazine"
   summary: Ongoing collection of data visualizations made using R ggplot2 for data reports and personal showcase.
   tags: ["data", "hobby"]
+
+- name: Shared Homies
+  logo: /images/sections/projects/sh-logo.png
+  role: Growth Strategy | Founding Member
+  #timeline: "Jun 2019 - Present"
+  #repo: Test
+  url: "https://sharedhomies.com"
+  summary: Shared Homies is a startup that aims to transform and democratize the housing-landlord industry across Asia by increasing access for ordinary people.
+  tags: ["startup", "marketing"]
