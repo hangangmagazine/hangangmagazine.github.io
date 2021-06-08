@@ -33,7 +33,6 @@
     {{ if site.GoogleAnalytics }}
         {{ template "_internal/google_analytics_async.html" . }}
     {{ end }}
-  <script async data-apikey="e71c69a8a5b79957d9ffb1cb7dbb5f" data-cookieless src="https://cdn.jsdelivr.net/npm/hockeystack@latest/hockeystack.min.js"></script>
   </head>
   <body data-spy="scroll" data-target="#top-navbar" data-offset="100">
 
@@ -82,5 +81,6 @@
     <script src="{{ "/js/github-button.js" | relURL }}"></script>
     <script src="{{ "/js/home.js" | relURL }}"></script>
     <script src="{{ "/js/jquery.filterizr.min.js" | relURL }}"></script>
+    <script async data-apikey="e71c69a8a5b79957d9ffb1cb7dbb5f" data-cookieless src="https://cdn.jsdelivr.net/npm/hockeystack@latest/hockeystack.min.js"></script>
   </body>
 </html>
