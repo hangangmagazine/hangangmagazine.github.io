@@ -13,9 +13,15 @@
   margin: 0;
   background-attachment: fixed;
   background-position: center;
-  transform: scale(1.1);
+  transform: scale(1.5)!important;
   filter: blur(3px);
   background-size: cover;
+}
+
+/* Remove blur */
+.background{
+  filter: none!important;
+  opacity: 1.0;
 }
 
 /*
