@@ -49,6 +49,7 @@ a:hover {
   color: #8392a5;
 }
 
+/* Projects top bar buttons */
 .btn-dark {
   background-color: #3c4858;
   border-color: #3c4858;
@@ -68,16 +69,19 @@ a:hover {
   border-color: #2098d1 !important;
 }
 
+/* Achievements cetficates button */
 .btn-outline-info:hover {
   background-color: #2098d1 !important;
-  color: #e5e9f2 !important;
+  color: #e5f2eb !important;
 }
 
+/* Projects text tags */
 .btn-info {
   background-color: #248aaa !important;
   color: #e5e9f2 !important;
 }
 
+/* projects text tags hover */
 .btn-info:hover {
   background-color: #2098d1 !important;
   color: #e5e9f2 !important;
@@ -95,6 +99,7 @@ a:hover {
   background-color: #f9fafc !important;
 }
 
+/* alt background color */
 .bg-dimmed {
   background-color: #e5e9f2;
 }
