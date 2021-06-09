@@ -6,6 +6,7 @@
   overflow: hidden;
 }
 
+/* change transform to 1.0 scale */
 .background {
   height: 100%;
   width: 100%;
@@ -13,7 +14,7 @@
   margin: 0;
   background-attachment: fixed;
   background-position: center;
-  transform: scale(1.5)!important;
+  transform: scale(1.0)!important;
   filter: blur(3px);
   background-size: cover;
 }
