@@ -81,7 +81,7 @@ projects:
 
 - name: Shared Homies
   logo: /images/sections/projects/sh-logo.png
-  role: Growth Strategy | Founding Member
+  role: Growth Strategy | Founding Member | Web Dev
   #timeline: "Jun 2019 - Present"
   #repo: Test
   url: "https://sharedhomies.com"
