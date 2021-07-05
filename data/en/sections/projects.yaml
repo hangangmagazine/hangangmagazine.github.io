@@ -23,7 +23,7 @@ buttons:
 - name: Startup
   filter: "startup"
 - name: SEO
- filter: "seo"
+  filter: "seo"
 
 # your projects
 projects:
