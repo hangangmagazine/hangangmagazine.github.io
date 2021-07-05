@@ -22,6 +22,8 @@ buttons:
   filter: "data"
 - name: Startup
   filter: "startup"
+- name: SEO
+ filter: "seo"
 
 # your projects
 projects:
@@ -87,3 +89,12 @@ projects:
   url: "https://sharedhomies.com"
   summary: Shared Homies is a startup that aims to transform and democratize the housing-landlord industry across Asia by increasing access for ordinary people.
   tags: ["startup", "marketing"]
+
+  - name: Wordvice
+  logo: /images/sections/projects/wordvice.png
+  role: SEO & Digital Marketing Specialist
+  #timeline: "May 2019 - Present"
+  #repo: Test
+  url: "https://wordvice.com/examples-of-successful-college-personal-statements/"
+  summary: SEO article sample. Total Keywords - 608. Top 10 Keywords - 87. Top 3 Keywords - 13. Monthly Traffic - 3,018 per month. Equivalent Traffic Cost - $5,500 / month. Total Site Traffic % - 2%. 
+  tags: ["SEO", "marketing"]
