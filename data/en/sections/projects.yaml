@@ -22,6 +22,8 @@ buttons:
   filter: "data"
 - name: Startup
   filter: "startup"
+- name: SEO
+  filter: "seo"
 
 # your projects
 projects:
@@ -33,7 +35,7 @@ projects:
   url: "https://social.hangangmagazine.com/linktree"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: 
     Han Gang Magazine is a data-driven blog about culture, lifestyle, finance, experience, and business in Korea. A personal passion project to deliver contextual insights into Korea for expats, utilizing SEO best practices.
-  tags: ["blog", "hobby", "content", "data"]
+  tags: ["blog", "content", "data"]
 
 - name: KOMMON Newsletter
   logo: /images/sections/projects/Kommon.png
@@ -95,7 +97,7 @@ projects:
   #repo: Test
   url: "https://wordvice.com/examples-of-successful-college-personal-statements/"
   summary: | 
-    SEO article sample: How to Write a Personal Statement for College
+    How to Write a Personal Statement for College
   
     •	Total Keywords - 608 
 
@@ -105,7 +107,29 @@ projects:
   
     •	Monthly Traffic - 3,018 per month
   
-    •	Equivalent Traffic Cost - $5,500 / month
+    •	Adwords Equivalent Traffic Cost - 14,800 / month
   
-    •	Total Site Traffic % - 2%. 
-  tags: ["marketing", "content"]
+    •	Total Site Traffic % - 4.6%
+  tags: ["marketing", "content", "seo"]
+
+- name: Wordvice
+  logo: /images/sections/projects/wordvice.png
+  role: SEO & Digital Marketing Specialist
+  #timeline: "May 2019 - Present"
+  #repo: Test
+  url: "https://wordvice.com/graduate-school-recommendation-letter-templates-and-examples/"
+  summary: | 
+    Graduate School Recommendation Letter Templates and Examples
+  
+    •	Total Keywords - 1,700 
+
+    •	Top 10 Keywords - 196
+  
+    •	Top 3 Keywords - 56
+  
+    •	Monthly Traffic - 5,800 per month
+  
+    •	Adwords Equivalent Traffic Cost - $11,300 / month
+  
+    •	Total Site Traffic % - 15.9%
+  tags: ["marketing", "content", "seo"]
