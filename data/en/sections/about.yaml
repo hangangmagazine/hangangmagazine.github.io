@@ -15,7 +15,7 @@ company:
   url: "https://wordvice.com"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/Andrew Brennfoerder Resume.pdf"
+resume: "files/Andrew Brennfoerder Resume_.pdf"
 
 # a summary about you
 summary:
@@ -25,7 +25,7 @@ summary:
   Andrew earned his MBA in business analytics from the University of Nebraska in 2021 and currently divides his time between Seoul, Korea and Dallas, Texas. He enjoys bodybuilding, outdoor activities, gaming, and hanging out at the Han River.
 
 
-  _This is a static site built with CSS/HTML and deployed on Github/Netlify_
+  _This is a static site built with HUGO and deployed on Github/Netlify_
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
