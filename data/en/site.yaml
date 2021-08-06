@@ -20,7 +20,7 @@ customMenus:
 
 # Specify OpenGraph Headers
 openGraph:
-  title: Andrew's Portfolio
+  title: Andrew Brennfoerder
   type: website
   description: Portfolio and personal blog of Andrew Brennfoerder.
   image: images/author/Andrew Face Linkedin2.png
