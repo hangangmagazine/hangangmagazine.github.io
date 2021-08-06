@@ -19,12 +19,14 @@ experiences:
   - designation: Digital Marketing, Content & SEO strategist
     start: June 2019
     responsibilities:
-    - Implement content strategy, onboard content team, report progress, and adhere to KPIs/OKRs.
-    - Backlink building, competitor benchmarking, backlink/content analysis. 
-    - Keyword and topic research, technical site audit
-    - Data analysis, sorting, visualization, and reporting. 
-    - Manage and create content for English language social media channels.
-    - Develop partnership/affiliate outreach strategy.
+    - Technical and on-page SEO, digital and content marketing, partner outreach, front-end web development
+    - Developed proprietary content, keyword, and outreach strategies with conversions as the main goal
+    - Competitive analysis - Benchmarked competitors’ content, keywords, backlinks, and business intent/strategy
+    - Technical - Analyzed and made recommendations for technical site and SEO improvements
+    - Strategy - Developed content strategy to accompany key product (https://wordvice.ai; citation generator) launches
+    - Blog - Keyword and topic research, backlink building,
+    - Collaboration - Worked closely with dev, sales, and product management members
+    - Reporting - Adhered to and reported KPIs to CEO in weekly meetings
 
 - company:
     name: Shared Homies
@@ -33,18 +35,16 @@ experiences:
     # company overview
     overview: Shared Homies is a property/housing startup that seeks to democratize access to shared housing across Asia with a focus on community-building.
   positions:
-  - designation: Head of Growth Strategy & Marketing | Founding Member
+  - designation: CMO | Founding Member
     start: May 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Develop overall business growth strategy as founding member.
-    - Fundraising and pitch strategy
-    - Lead aggressive SEO content campaign. Develop social community strategy.
-    - Create data-intensive materials for outreach, onboarding, and partnerships. 
-    - Monitor and report metrics to founding team.
-    - Developed website / online platform. Alpha version.
+    - Build entire website and platform, develop backend automations, implement and design email marketing strategy
+    - Setup task, communication, knowledgebase, and documentation infrastructure
+    - Create database for storing tenants, operators, leads, partners, and house inventory
+    - Create marketing materials for outreach, onboarding, and fundraising. Monitor and report metrics to co-founder
 
 - company:
     name: KOMMON Newsletter
@@ -53,14 +53,12 @@ experiences:
     # company overview
     overview: KOMMON is a newsletter marketing startup that delivers engaging content on Korean news, culture, events, and trends.
   positions:
-  - designation: Head of Strategic Growth
+  - designation: SEO specialist
     start: Jan 2021
     responsibilities:
-    - Develop a long-term strategic growth plan to increase readership.
-    - SEO competitor and keyword research to inform content social media team.
-    - Spearhead site redesign to create dual content platform (newsletter and blog).
-    - Predictive analytics - classification models to optimize future marketing to subscribers.
-    - Outreach to affiliate partners and advertisers for monetization.
+    - Spearhead site redesign to create dual content platform (newsletter and blog)
+    - Analyze subscriber data and create models to optimize future outreach/marketing to subscribers
+    - Outreach to affiliate partners and advertisers for monetization
 
 #- company:
    # name: Han Gang Media & SEO Consulting
@@ -80,21 +78,49 @@ experiences:
     location: Seoul, Korea
     overview: Nurisco is an academic consulting firm that connects researchers and students with talented, expert editors.
   positions:
-  - designation: Editor Program Manager
-    start: Sep 2015
-    end: Jan 2020
+  - designation: Account Manager | Sales & Partnerships
+    start: Jan 2017
+    end: June 2019
     responsibilities:
-    - Editing of scientific research articles to be published in international, academic journals.
-    - Program management - Workflow management and QA of editors. 
-    - Account management - Relationships with clients. Ensured client satisfaction. 
-    - Lead generation - Outreach, sales & networking with professors, researchers, and editing talent.
-    - Human Resources - Recruited PhD professors and researchers as expert editors.
+    - Maintained client relationships, supported and managed daily sales tasks, implemented internal organizational tools
+    - Responsible for reporting key information and providing support to Korean owner
+    - Onboarding - Met with clients to explain editing services; served as native English speaker representative
+    - Sales - Executed sales strategies, mediated feedback and informed owner of key developments.
+    - Evaluation - Made recommendations about client lifetime value – selection and termination of clients
+    - Lead generation - Two-sided in-person and digital outreach to both clients and editing talent
+    - Marketing - Email marketing and follow-ups
+    - Automation - Designed and developed automations for email marketing, notifications, records, and team task coordination
+    - Culture - Interacted with clients according to Korean cultural norms
+    - Negotiation - Established institutional (universities, hospitals, research) partnerships
 
+  - designation: Program & Editor Manager
+    location: Dallas, TX | Seoul, Korea
+    start: Jun 2015
+    end: Jan 2017
+    responsibilities:
+    - Manage entire editing service workflow from initial onboarded client to editor to delivered product
+    - Technical training of editors to ensure product quality – led internal seminars and video calls
+    - Cultural training and education regarding Korean culture and expectations
+    - Human Resources - Developed editor recruitment program. Classified and matched editors with specific clients
+    - Task Management - Assigned and oversaw workflow and scheduling for editors. Maintained tight deadlines.
+    - Quality Assurance - Developed, checked, and maintained editing quality standards
+    - Client Support - Interface with clients to ensure satisfaction, follow-up on sales/program inquiries from clients
+    - Internal Support - Communicated client intent and requirements to editors
+    - Team Coordination - Worked closely with sales agent to validate the appropriateness of clients versus editors
+    - Documentation - Developed internal wiki/documentation system for editors and client support
+  
   - designation: Senior Science Editor
     location: Dallas, TX
-    start: Jun 2012
-    end: Sep 2015
+    start: Jan 2012
+    end: Jun 2015
     responsibilities:
-    - Oversee and edit scientific research articles.
-    - Understand client expectations - professional & cultural.
-    - Ensure client satisfaction.
+    - Edited scientific research articles written by researchers/professors to be published in international, academic journals
+    - Acted as native English speaker liaison/representative between editors and Korean-speaking clients
+    - Edited thousands of articles & manuscripts.
+    
+  - designation: Science Editor
+    location: Dallas, TX
+    start: Jan 2009
+    end: Jan 2012
+    responsibilities:
+    - Same as above
