@@ -46,20 +46,6 @@ experiences:
     - Create database for storing tenants, operators, leads, partners, and house inventory
     - Create marketing materials for outreach, onboarding, and fundraising. Monitor and report metrics to co-founder
 
-- company:
-    name: KOMMON Newsletter
-    url: "https://kommon.site"
-    location: Seoul, Korea
-    # company overview
-    overview: KOMMON is a newsletter marketing startup that delivers engaging content on Korean news, culture, events, and trends
-  positions:
-  - designation: SEO specialist
-    start: Jan 2021
-    responsibilities:
-    - Spearhead site redesign to create dual content platform (newsletter and blog)
-    - Analyze subscriber data and create models to optimize future outreach/marketing to subscribers
-    - Outreach to affiliate partners and advertisers for monetization
-
 #- company:
    # name: Han Gang Media & SEO Consulting
    # url: "https://hangangmagazine.com"

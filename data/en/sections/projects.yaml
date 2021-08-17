@@ -37,15 +37,6 @@ projects:
     Han Gang Magazine is a data-driven blog about culture, lifestyle, finance, experience, and business in Korea. A personal passion project to deliver contextual insights into Korea for expats, utilizing SEO best practices.
   tags: ["blog", "content", "data"]
 
-- name: KOMMON Newsletter
-  logo: /images/sections/projects/Kommon.png
-  role: Head of Strategic Planning
-  #timeline: "Jan 2021 - Present"
-  #repo: 
-  url: "https://kommon.site"
-  summary: KOMMON is a newsletter marketing startup that delivers engaging content on Korean news, culture, events, and trends. 
-  tags: ["content", "startup", "marketing"]
-
 - name: The Data Atlas of South Korea - Demography, Society, and Economic Activity 
   role: Editor
   logo: /images/sections/projects/book1.jpg
