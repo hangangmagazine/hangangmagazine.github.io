@@ -33,30 +33,32 @@ experiences:
     url: "https://sharedhomies.com"
     location: Seoul, Korea
     # company overview
-    overview: Shared Homies is a property/housing startup that seeks to democratize access to shared housing across Asia with a focus on community-building
+    overview: Shared Homies is a property/housing consulting company that aims to connect tenants in Korea with trustworthy housing operators
   positions:
-  - designation: CMO | Founding Member
+  - designation: CMO | Co-founder
     start: May 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Build entire website and platform, develop backend automations, implement and design email marketing strategy
+    - Build entire website and platform, develop backend automations, implement and design email marketing
+    - Maintain listings and website
     - Setup task, communication, knowledgebase, and documentation infrastructure
-    - Create database for storing tenants, operators, leads, partners, and house inventory
-    - Create marketing materials for outreach, onboarding, and fundraising. Monitor and report metrics to co-founder
+    - Create relational, normalized databases for storing tenants, operators, leads, partners, and house inventories
+    - Develop digital, content, and offline marketing strategies 
+    - Monitor, track, and report all KPIs, finances, marketing data, etc
+    - Accounting & all finances
 
-#- company:
-   # name: Han Gang Media & SEO Consulting
-   # url: "https://hangangmagazine.com"
-   # location: Seoul, Korea
-    # company overview
-    #overview: HAN GANG MAGAZINE is a new periodical focusing on culture & lifestyle for expats and foreigners living in Seoul, Korea.   
-  #positions:
-  #- designation: Founder/Owner
-  #  start: June 2020
-  #  responsibilities:
-  #  - HAN GANG MAGAZINE | Culture 🎎, lifestyle🌱, finance💰, experiences🤝, business💼 & data-driven insights📈 | Seoul, Korea
+- company:
+   name: Han Gang Media & SEO Consulting
+   url: "https://hangangmagazine.com"
+   location: Seoul, Korea
+   overview: Digital marketing and SEO agency    
+  positions:
+  - designation: Owner
+    start: June 2020
+    responsibilities:
+    - I provide web development, SEO, content/digital marketing, and lead generation services for individuals and businesses.
 
 - company:
     name: Nurisco Academic Consulting

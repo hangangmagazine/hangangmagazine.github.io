@@ -33,9 +33,17 @@ projects:
   #timeline: "June 2020 - Present"
   #repo: # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "https://social.hangangmagazine.com/linktree"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: 
-    Han Gang Magazine is a data-driven blog about culture, lifestyle, finance, experience, and business in Korea. A personal passion project to deliver contextual insights into Korea for expats, utilizing SEO best practices.
+  summary: Han Gang Magazine is a data reporting blog about Korea. A personal passion project to deliver contextual insights into Korea for expats, utilizing SEO best practices.
   tags: ["blog", "content", "data"]
+
+- name: KOMMON Newsletter
+  logo: /images/sections/projects/Kommon.png
+  role: SEO consultant
+  #timeline: "Jan 2021 - Present"
+  #repo: 
+  url: "https://kommon.site"
+  summary: KOMMON is a newsletter marketing startup that delivers engaging content on Korean news, culture, events, and trends. Performed SEO consultations and guidance.
+  tags: ["content", "startup", "marketing"]
 
 - name: The Data Atlas of South Korea - Demography, Society, and Economic Activity 
   role: Editor
