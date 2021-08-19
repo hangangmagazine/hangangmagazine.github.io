@@ -37,7 +37,7 @@ projects:
   tags: ["blog", "content", "data"]
 
 - name: Ara Tax | Korean Tax Accountant & Consulting
-  logo: /images/sections/projects/ara.png
+  logo: /images/sections/projects/Ara.png
   role: Web development & SEO consultant
   #timeline: "June 2020 - Present"
   #repo: # If your project is a public repo on GitHub, then provide this link. it will show star count.
