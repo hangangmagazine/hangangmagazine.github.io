@@ -29,7 +29,7 @@ buttons:
 projects:
 - name: Han Gang Magazine
   logo: /images/sections/projects/hangang.png
-  role: Founder | Writer
+  role: Founder | Web development & SEO
   #timeline: "June 2020 - Present"
   #repo: # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "https://social.hangangmagazine.com/linktree"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
@@ -42,7 +42,7 @@ projects:
   #timeline: "June 2020 - Present"
   #repo: # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "https://aratax.net"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Site design and content marketing using Webflow CMS
+  summary: Site design in Webflow and content marketing for tax accountant client 
   tags: ["blog", "content"]
 
 
