@@ -24,6 +24,8 @@ buttons:
   filter: "startup"
 - name: SEO
   filter: "seo"
+- name: Web Dev
+  filter: "web dev"
 
 # your projects
 projects:
@@ -34,7 +36,7 @@ projects:
   #repo: # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "https://social.hangangmagazine.com/linktree"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Han Gang Magazine is a data reporting blog about Korea. A personal passion project to deliver contextual insights into Korea for expats, utilizing SEO best practices.
-  tags: ["blog", "content", "data"]
+  tags: ["content", "data", "web dev"]
 
 - name: Ara Tax | Korean Tax Accountant & Consulting
   logo: /images/sections/projects/Ara.png
@@ -43,7 +45,7 @@ projects:
   #repo: # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "https://aratax.net"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Site design in Webflow and content marketing for tax accountant client 
-  tags: ["blog", "content"]
+  tags: ["web dev", "content"]
 
 
 - name: KOMMON Newsletter
@@ -97,7 +99,7 @@ projects:
   #repo: Test
   url: "https://sharedhomies.com"
   summary: Shared Homies is a startup that aims to transform and democratize the housing-landlord industry across Asia by increasing access for ordinary people.
-  tags: ["startup", "marketing"]
+  tags: ["startup", "marketing", "web dev"]
 
 - name: Wordvice
   logo: /images/sections/projects/wordvice.png
