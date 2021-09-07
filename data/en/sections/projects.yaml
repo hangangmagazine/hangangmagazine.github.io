@@ -35,7 +35,7 @@ projects:
   #timeline: "June 2020 - Present"
   #repo: # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "https://social.hangangmagazine.com/linktree"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Han Gang Magazine is a data reporting blog about Korea. A personal passion project to deliver contextual insights into Korea for expats, utilizing SEO best practices.
+  summary: Han Gang Magazine is a data reporting blog about Korea. A personal passion project to deliver contextual insights into Korea for expats, utilizing SEO best practices. Built in Wordpress.
   tags: ["content", "data", "web dev"]
 
 - name: Ara Tax | Korean Tax Accountant & Consulting
@@ -44,7 +44,7 @@ projects:
   #timeline: "June 2020 - Present"
   #repo: # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "https://aratax.net"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Site design in Webflow and content marketing for tax accountant client 
+  summary: Complete site design & build in Webflow. All marketing copy, content marketing, and SEO consulting for tax accountant client 
   tags: ["web dev", "content"]
 
 
@@ -94,7 +94,7 @@ projects:
 
 - name: Shared Homies
   logo: /images/sections/projects/sh-logo.png
-  role: Growth Strategy | Founding Member | Web Dev
+  role: Founder | SEO, Web Dev, Database mgt & Marketing
   #timeline: "Jun 2019 - Present"
   #repo: Test
   url: "https://sharedhomies.com"
