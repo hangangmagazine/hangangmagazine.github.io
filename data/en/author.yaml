@@ -7,10 +7,10 @@ greeting: "Hi, I am"
 image: "images/author/Andrew Suit Linkedin.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "andrewbrennfoerder@gmail.com"
+  personal: "andrewbrennfoerder@gmail.com"
   #phone: "+1-940-489-2111"
   #phone2: "+82-10-2359-1532"
-  email2: "andrew@sharedhomies.com"
+  business: "andrew@sharedhomies.com"
 
 # some summary about what you do
 summary:
