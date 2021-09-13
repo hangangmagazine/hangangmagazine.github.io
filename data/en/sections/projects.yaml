@@ -54,7 +54,7 @@ projects:
   #repo: 
   url: "https://kommon.site"
   summary: KOMMON is a newsletter marketing startup that delivers engaging content on Korean news, culture, events, and trends. Performed SEO consultations and guidance.
-  tags: ["content", "startup", "marketing"]
+  tags: ["content", "startup", "marketing", "seo"]
 
 - name: Ussist
   logo: /images/sections/projects/ussist.png
