@@ -47,7 +47,6 @@ projects:
   summary: Complete site design & build in Webflow. All marketing copy, content marketing, and SEO consulting for tax accountant client 
   tags: ["web dev", "content"]
 
-
 - name: KOMMON Newsletter
   logo: /images/sections/projects/Kommon.png
   role: SEO consultant
@@ -56,6 +55,12 @@ projects:
   url: "https://kommon.site"
   summary: KOMMON is a newsletter marketing startup that delivers engaging content on Korean news, culture, events, and trends. Performed SEO consultations and guidance.
   tags: ["content", "startup", "marketing"]
+
+- name: Ussist
+  logo: /images/sections/projects/ussist.png
+  role: SEO consultant
+  summary: Ussist is an app startup that makes college applications easy. Gave SEO seminar/consulting to content team and tools workshop (SEMrush, CMS) to content manager.
+  tags: ["seo", "content"]
 
 - name: The Data Atlas of South Korea - Demography, Society, and Economic Activity 
   role: Editor
