@@ -35,8 +35,18 @@ projects:
   #timeline: "June 2020 - Present"
   #repo: # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "https://social.hangangmagazine.com/linktree"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Han Gang Magazine is a data reporting blog about Korea. A personal passion project to deliver contextual insights into Korea for expats, utilizing SEO best practices. Built in Wordpress.
-  tags: ["content", "data", "web dev"]
+  summary: |
+    Han Gang Magazine is a data reporting blog about Korea. A personal passion project to deliver contextual insights into Korea for expats, utilizing SEO best practices. Built in Wordpress.
+
+    I targeted Korea-related topics I am personally interested and which I assessed were not well-covered. I was able to displace many Korea blogs, newspapers, and travel sites for my targeted keywords.
+
+    I also practiced my data skills - data wrangling, cleaning, R vis, reporting. See [here](https://hangangmagazine.com/category/briefs) for my reports.
+
+    [SEMrush Stats](https://www.semrush.com/analytics/overview/?q=hangangmagazine.com&searchType=domain)  
+    [SEMrush Overview](https://i.imgur.com/ssdLDPc.png)  
+    [Organic Positions](https://i.imgur.com/bHH0GgW.png)  
+  
+  tags: ["content", "data", "web dev", "seo"]
 
 - name: Ara Tax | Korean Tax Accountant & Consulting
   logo: /images/sections/projects/Ara.png
@@ -106,23 +116,34 @@ projects:
   summary: Shared Homies is a startup that aims to transform and democratize the housing-landlord industry across Asia by increasing access for ordinary people.
   tags: ["startup", "marketing", "web dev"]
 
-- name: Wordvice
+- name: Wordvice blog redesign, restructure, and subdomain transfer
+  logo: /images/sections/projects/wordvice.png
+  role: SEO & Digital Marketing Specialist
+  #timeline: "May 2019 - Present"
+  #repo: Test
+  url: "https://blog.wordvice.com"
+  summary: | 
+    I spearheaded the complete transfer of all content/blog pages to a new redesigned, modernized subdomain. Recommended content restructre from older archive list to silo/topic cluster structure.
+
+    Worked with dev team to create custom plugins/Gutenberg blocks for our personal use - after analyzing our competitors.
+
+    Result: 80% reduction in bounce rate, increase in conversion % for the highest performing pages.
+
+    [Organic Positions](https://i.imgur.com/XuoCAkf.png)
+  
+  tags: ["content", "seo"]
+
+- name: Examples of Successful College Personal Statements
   logo: /images/sections/projects/wordvice.png
   role: SEO & Digital Marketing Specialist
   #timeline: "May 2019 - Present"
   #repo: Test
   url: "https://wordvice.com/examples-of-successful-college-personal-statements/"
   summary: | 
-    How to Write a Personal Statement for College
+    A high-performing article on writing personal statements. Aritcle holds numerous top positions.
+ 
+    [Organic Positions](https://i.imgur.com/w5WqSDh.png)  
 
-    [SEMrush stats](https://wordvice.com/examples-of-successful-college-personal-statements/)
-  
-    •	Total Keywords - 608  
-    •	Top 10 Keywords - 87    
-    •	Top 3 Keywords - 13    
-    •	Monthly Traffic - 3,018 per month    
-    •	Adwords Equivalent Traffic Cost - $14,800 / month    
-    •	Total Site Traffic % - 4.6%
   tags: ["content", "seo"]
 
 - name: Graduate School Recommendation Letter Templates and Examples
@@ -132,36 +153,21 @@ projects:
   #repo: Test
   url: "https://wordvice.com/graduate-school-recommendation-letter-templates-and-examples/"
   summary: | 
-    [SEMrush Stats](https://www.semrush.com/analytics/overview/?q=https%3A%2F%2Fwordvice.com%2Fgraduate-school-recommendation-letter-templates-and-examples%2F&searchType=subfolder)
-
     This article holds multiple top #1 SERPs and dominates almost all searches for "graduate school" and "recommendation letter". One of the most important articles for Wordvice.com and drives a huge part of organic conversions. 
+
+    [Organic Positions](https://i.imgur.com/9aAWFrK.png)
   
-    •	Total Keywords - 1,700  
-    •	Top 10 Keywords - 196    
-    •	Top 3 Keywords - 56    
-    •	Monthly Traffic - 5,800 per month    
-    •	Adwords Equiv Monthly Cost - $11,300 / month    
-    •	Total Site Traffic % - 15.9%
   tags: ["content", "seo"]
 
-- name: Wordvice
+- name: How to Request a College Letter of Recommendation — Sample Template
   logo: /images/sections/projects/wordvice.png
   role: SEO & Digital Marketing Specialist
   #timeline: "May 2019 - Present"
   #repo: Test
-  url: "https://wordvice.com/graduate-school-recommendation-letter-templates-and-examples/"
+  url: "https://blog.wordvice.com/how-to-request-a-college-letter-of-recommendation-sample-template/"
   summary: | 
-    [Graduate School Recommendation Letter Templates and Examples
-  
-    •	Total Keywords - 1,700 
+    Top ranking article on letters of recommendation. 
 
-    •	Top 10 Keywords - 196
+    [Organic Positions](https://i.imgur.com/sww2Mqo.png)
   
-    •	Top 3 Keywords - 56
-  
-    •	Monthly Traffic - 5,800 per month
-  
-    •	Adwords Equivalent Traffic Cost - $11,300 / month
-  
-    •	Total Site Traffic % - 15.9%]
   tags: ["content", "seo"]
