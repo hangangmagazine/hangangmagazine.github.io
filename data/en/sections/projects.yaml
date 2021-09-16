@@ -42,11 +42,26 @@ projects:
 
     I also practiced my data skills - data wrangling, cleaning, R vis, reporting. See [here](https://hangangmagazine.com/category/briefs) for my reports.
 
-    [SEMrush Stats](https://www.semrush.com/analytics/overview/?q=hangangmagazine.com&searchType=domain)  
     [SEMrush Overview](https://i.imgur.com/ssdLDPc.png)  
     [Organic Positions](https://i.imgur.com/bHH0GgW.png)  
   
   tags: ["content", "data", "web dev", "seo"]
+
+- name: Blog redesign, restructure, and subdomain transfer
+  logo: /images/sections/projects/wordvice.png
+  role: SEO & Digital Marketing Specialist
+  #timeline: "May 2019 - Present"
+  #repo: Test
+  url: "https://blog.wordvice.com"
+  summary: | 
+    I spearheaded the complete transfer of all content/blog pages to a new redesigned, modernized subdomain. Recommended content restructre from older archive list to silo/topic cluster structure.
+
+    Worked with dev team to create custom plugins/Gutenberg blocks for our personal use - after analyzing our competitors.
+
+    Result: 80% reduction in bounce rate, increase in conversion % for the highest performing pages.
+
+    [Organic Positions](https://i.imgur.com/XuoCAkf.png)
+  tags: ["content", "seo"]
 
 - name: Ara Tax | Korean Tax Accountant & Consulting
   logo: /images/sections/projects/Ara.png
@@ -78,7 +93,7 @@ projects:
   #timeline: "2014"
   url: "https://www.amazon.com/Data-Atlas-South-Korea-Demography/dp/8962971615"
   summary: The Data Atlas of South Korea maps the demographic, social, and economic states of the southern half of the Korean peninsula. It also utilizes corresponding census data from North Korea in order to offer some comparative demographic perspectives of a unified peninsula.
-  tags: ["academic", "editor", "book"]
+  tags: ["academic"]
 
 - name: SekkiDeul YouTube
   logo: /images/sections/projects/sekki.png
@@ -87,7 +102,7 @@ projects:
   #repo: Test
   url: "https://sekkideul.hangangmagazine.com"
   summary: SekkiDeul YouTube aims to deliver actionable, educational videos  on personal finance, investments, banking, and money management for foreigners living in Korea.
-  tags: ["content", "partner", "marketing"]
+  tags: ["content", "marketing"]
 
 - name: South Korea - A Socioeconomic Overview from the Past to Present
   logo: /images/sections/projects/book2.jpg
@@ -96,7 +111,7 @@ projects:
   #repo: Test
   url: "https://www.amazon.com/South-Korea-Socioeconomic-Overview-Present/dp/141286397X"
   summary: Examination of South Korea's socioeconomic evolution since the 1940s. Topics covered include demography, rural-urban development, economic planning, and international trade, in addition to lower and higher education.
-  tags: ["academic", "editor", "book"]
+  tags: ["academic"]
 
 - name: R project repository
   logo: /images/sections/skills/R.png
@@ -116,23 +131,6 @@ projects:
   summary: Shared Homies is a startup that aims to transform and democratize the housing-landlord industry across Asia by increasing access for ordinary people.
   tags: ["startup", "marketing", "web dev"]
 
-- name: Wordvice blog redesign, restructure, and subdomain transfer
-  logo: /images/sections/projects/wordvice.png
-  role: SEO & Digital Marketing Specialist
-  #timeline: "May 2019 - Present"
-  #repo: Test
-  url: "https://blog.wordvice.com"
-  summary: | 
-    I spearheaded the complete transfer of all content/blog pages to a new redesigned, modernized subdomain. Recommended content restructre from older archive list to silo/topic cluster structure.
-
-    Worked with dev team to create custom plugins/Gutenberg blocks for our personal use - after analyzing our competitors.
-
-    Result: 80% reduction in bounce rate, increase in conversion % for the highest performing pages.
-
-    [Organic Positions](https://i.imgur.com/XuoCAkf.png)
-  
-  tags: ["content", "seo"]
-
 - name: Examples of Successful College Personal Statements
   logo: /images/sections/projects/wordvice.png
   role: SEO & Digital Marketing Specialist
@@ -142,8 +140,7 @@ projects:
   summary: | 
     A high-performing article on writing personal statements. Aritcle holds numerous top positions.
  
-    [Organic Positions](https://i.imgur.com/w5WqSDh.png)  
-
+    [Organic Positions](https://i.imgur.com/w5WqSDh.png)
   tags: ["content", "seo"]
 
 - name: Graduate School Recommendation Letter Templates and Examples
@@ -156,7 +153,6 @@ projects:
     This article holds multiple top #1 SERPs and dominates almost all searches for "graduate school" and "recommendation letter". One of the most important articles for Wordvice.com and drives a huge part of organic conversions. 
 
     [Organic Positions](https://i.imgur.com/9aAWFrK.png)
-  
   tags: ["content", "seo"]
 
 - name: How to Request a College Letter of Recommendation — Sample Template
@@ -169,5 +165,4 @@ projects:
     Top ranking article on letters of recommendation. 
 
     [Organic Positions](https://i.imgur.com/sww2Mqo.png)
-  
   tags: ["content", "seo"]
