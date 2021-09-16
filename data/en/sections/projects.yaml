@@ -114,19 +114,35 @@ projects:
   url: "https://wordvice.com/examples-of-successful-college-personal-statements/"
   summary: | 
     How to Write a Personal Statement for College
-  
-    •	Total Keywords - 608 
 
-    •	Top 10 Keywords - 87
+    [SEMrush stats](https://wordvice.com/examples-of-successful-college-personal-statements/)
   
-    •	Top 3 Keywords - 13
-  
-    •	Monthly Traffic - 3,018 per month
-  
-    •	Adwords Equivalent Traffic Cost - 14,800 / month
-  
+    •	Total Keywords - 608  
+    •	Top 10 Keywords - 87    
+    •	Top 3 Keywords - 13    
+    •	Monthly Traffic - 3,018 per month    
+    •	Adwords Equivalent Traffic Cost - $14,800 / month    
     •	Total Site Traffic % - 4.6%
-  tags: ["marketing", "content", "seo"]
+  tags: ["content", "seo"]
+
+- name: Graduate School Recommendation Letter Templates and Examples
+  logo: /images/sections/projects/wordvice.png
+  role: SEO & Digital Marketing Specialist
+  #timeline: "May 2019 - Present"
+  #repo: Test
+  url: "https://wordvice.com/graduate-school-recommendation-letter-templates-and-examples/"
+  summary: | 
+    [SEMrush Stats](https://www.semrush.com/analytics/overview/?q=https%3A%2F%2Fwordvice.com%2Fgraduate-school-recommendation-letter-templates-and-examples%2F&searchType=subfolder)
+
+    This article holds multiple top #1 SERPs and dominates almost all searches for "graduate school" and "recommendation letter". One of the most important articles for Wordvice.com and drives a huge part of organic conversions. 
+  
+    •	Total Keywords - 1,700  
+    •	Top 10 Keywords - 196    
+    •	Top 3 Keywords - 56    
+    •	Monthly Traffic - 5,800 per month    
+    •	Adwords Equiv Monthly Cost - $11,300 / month    
+    •	Total Site Traffic % - 15.9%
+  tags: ["content", "seo"]
 
 - name: Wordvice
   logo: /images/sections/projects/wordvice.png
@@ -135,7 +151,7 @@ projects:
   #repo: Test
   url: "https://wordvice.com/graduate-school-recommendation-letter-templates-and-examples/"
   summary: | 
-    Graduate School Recommendation Letter Templates and Examples
+    [Graduate School Recommendation Letter Templates and Examples
   
     •	Total Keywords - 1,700 
 
@@ -147,5 +163,5 @@ projects:
   
     •	Adwords Equivalent Traffic Cost - $11,300 / month
   
-    •	Total Site Traffic % - 15.9%
-  tags: ["marketing", "content", "seo"]
+    •	Total Site Traffic % - 15.9%]
+  tags: ["content", "seo"]
