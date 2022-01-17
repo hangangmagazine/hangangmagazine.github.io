@@ -11,6 +11,18 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: LIDD Consultants
+    url: "https://lidd.com"
+    location: Seoul, Korea
+    overview: LIDD is a leading supply chain consulting firm that helps companies build world-class facilities and structure their operations to respond to market demands
+  positions:
+  - designation: Consultant
+    start: September 2021
+    responsibilities:
+    - LIDD Korea Division
+    - NetSuite Consultant Team
+
+- company:
     name: Wordvice
     url: "https://wordvice.com"
     location: Seoul, Korea
