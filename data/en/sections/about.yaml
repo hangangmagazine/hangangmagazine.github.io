@@ -8,20 +8,23 @@ section:
   template: sections/about.html
 
 # your designation
-designation: SEO & Digital Marketing Specialist | Data Analyst | Academic Consultant
+designation: ERP Conslutant | NetSuite 
 # your company information
 company:
-  name: Wordvice
-  url: "https://wordvice.com"
+  name: LIDD Consultants
+  url: "https://lidd.com"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/Andrew Brennfoerder Resume.pdf"
 
 # a summary about you
 summary:
-  Andrew is a 'customer experience expert' with client-facing skills in business development, account management, and sales & partnerships in addition to data-driven marketing experience in SEO, digital marketing, data analytics and reporting, and web development. 
+  Andrew is a consultant specializing in the Oracle NetSuite Enterprise Resource Planning platform. 
   
+
+  He has 10+ years of experience in client-facing and analytical roles. His educational and skills background include business development, account management, and sales & partnerships in addition to data-driven marketing experience in SEO, digital marketing, data analytics and reporting, and web development. 
   
+
   Andrew earned his MBA in business analytics from the University of Nebraska in 2021 and currently divides his time between Seoul, Korea and Dallas, Texas. He enjoys bodybuilding, outdoor activities, gaming, and hanging out at the Han River.
 
 
@@ -86,16 +89,16 @@ badges:
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:  
 - type: soft-skill-indicator
-  name: Market Research 
-  percentage: 95
-  color: sky
+  name: Business Admin 
+  percentage: 100
+  color: blue
 
 - type: soft-skill-indicator
-  name: Comp Analysis
-  percentage: 95
-  color: yellow
+  name: Oracle NetSuite
+  percentage: 100
+  color: orange
 
 - type: soft-skill-indicator
-  name: Content Strategy 
-  percentage: 95
+  name: SEO 
+  percentage: 100
   color: green

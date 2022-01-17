@@ -12,22 +12,19 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: On-page SEO & Content Strategy
+- name: Oracle NetSuite
+  logo: "/images/sections/skills/netsuite.png"
+  summary: 
+    Perform consultancy, support, and implementation of Oracle NetSuite Enterprise Resource Planning platform for industry clients.
+
+- name: Search Engine Optimization
   logo: "/images/sections/skills/semrush.png"
   summary: 
     On- and off-page SEO, backlink building, competitor analysis and benchmarking, keyword and topic research, data analysis, sorting, and visualization.
 
 
-    SEO keyword optimization with MarketMuse, Frase, and SurferSEO. GPT-3 writing with ShortlyAI.
+    SEO keyword optimization, technical SEO auditing, backend optimization to reduce CLS and TTFB, increase Google Pagespeed and Core Web Vitals.
   url: "https://semrush.com"
-
-- name: Off-page & Technical SEO
-  logo: "/images/sections/skills/cloud.png"
-  summary: 
-    Optimize backends of websites on any CMS to increase Google Pagespeed and Lighthouse scores, reduce cumulative layout shift and TTFB, and adhere to Core Web Vitals guidelines.
-
-
-    Technical SEO audit. Partnership & affiliate outreach campaigns for link building.
 
 - name: Digital Marketing Analytics
   logo: "/images/sections/skills/google.png"
