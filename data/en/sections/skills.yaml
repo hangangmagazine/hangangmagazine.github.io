@@ -17,6 +17,16 @@ skills:
   summary: 
     Perform consultancy, support, and implementation of Oracle NetSuite Enterprise Resource Planning platform for industry clients.
 
+- name: CSS/HTML, Apache FreeMarker, Big Faceless
+  logo: "/images/sections/skills/csshtml.png"
+  summary: 
+    Front-end CSS/HTML markup. 
+    
+    Apache FreeMarker™ is a template engine and a Java library to generate text output (HTML web pages, e-mails, configuration files, source code, etc.)
+
+    Big Faceless PDF Library. A Java class library for creating, editing, displaying and printing PDFs.
+
+
 - name: Search Engine Optimization
   logo: "/images/sections/skills/semrush.png"
   summary: 
