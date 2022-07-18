@@ -22,10 +22,16 @@ skills:
   summary: 
     Front-end CSS/HTML markup. 
     
+
     Apache FreeMarker™ is a template engine and a Java library to generate text output (HTML web pages, e-mails, configuration files, source code, etc.)
+
 
     Big Faceless PDF Library. A Java class library for creating, editing, displaying and printing PDFs.
 
+- name: Azure DevOps
+  logo: "/images/sections/skills/azure.png"
+  summary: 
+    Azure DevOps is a set of developer and DevOps tools and services from Microsoft Azure.
 
 - name: Search Engine Optimization
   logo: "/images/sections/skills/semrush.png"
