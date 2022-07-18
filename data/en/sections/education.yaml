@@ -32,7 +32,7 @@ degrees:
 
 - name: Phd Program in Molecular Biology (Not Finished)
   icon: fa-microscope
-  timeframe: 2006-2009
+  timeframe:
   institution:
     name: University of Iowa
     url: "#"
@@ -43,7 +43,7 @@ degrees:
 
 - name: B.Sc. in Biochemistry
   icon: fa-university
-  timeframe: 2002-2006
+  timeframe:
   institution:
     name: University of Nebraska-Lincoln
     url: "#"
